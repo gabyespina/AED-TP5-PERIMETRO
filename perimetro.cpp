@@ -1,3 +1,6 @@
+//EL PROGRAMA PIDE DOS DATOS POSITIVOS, GRAFICA EL RECTANGULO Y DEVUELVE EL PERIMETRO Y EL AREA DE ESTE.
+//GABRIEL ESPINA - K1091
+//12/05/15
 #include <cstdlib>
 #include <iostream>
 #include<stdlib.h> 
